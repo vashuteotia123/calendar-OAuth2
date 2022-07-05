@@ -1,6 +1,6 @@
 ### Files Required:
-[] # Filename: .env
-[] # Path: OAuth2/.env
+- Filename: .env  
+- Path: OAuth2/.env  
 ```
 DOMAIN=
 
@@ -8,5 +8,5 @@ DOMAIN=
 DEBUG=
 ```
 
-[] # Filename: client_secret.json
-[] # Path: /client_secret.json
+- Filename: client_secret.json  
+- Path: /client_secret.json  
